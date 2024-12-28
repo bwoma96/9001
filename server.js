@@ -7,7 +7,7 @@ const port = 3000;
 
 // PostgreSQL connection pool
 const pool = new Pool({
-  user: 'gert_user
+  user: 'gert_user'
   host: 'dpg-cto0v4lds78s73c8re30-a',
   database: 'gert',
   password: 'pPf5vW7A4d0BSz9qrypalCdjciOKW4LX',
